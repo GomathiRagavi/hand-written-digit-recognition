@@ -27,7 +27,7 @@ streamlit-drawable-canvas – for freehand drawing support
 Run the app -- streamlit run d.py
 
 Open in browser
-The app will run locally at: http://localhost:8501
+The app will run locally 
 
 📊 Model Details
 
@@ -35,6 +35,3 @@ Dataset: MNIST (70,000 handwritten digits)
 Model: CNN (Convolutional Neural Network)
 Input size: 28×28 grayscale images
 Accuracy: ~99% on training, ~98% on test set
-
-🎥 Demo 
-https://drive.google.com/file/d/1Hgf4r0o0mvOdMqx_yoJ0j5ffzkmSfU57/view?usp=sharing
